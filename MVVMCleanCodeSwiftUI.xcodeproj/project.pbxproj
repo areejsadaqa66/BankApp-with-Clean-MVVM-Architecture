@@ -26,10 +26,10 @@
 		523FF5952D7F51D20047E177 /* BankCardViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FF5942D7F51D20047E177 /* BankCardViewModel.swift */; };
 		523FF59A2D7F55790047E177 /* CardsCarouselViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FF5992D7F55790047E177 /* CardsCarouselViewBuilder.swift */; };
 		523FF5A02D7F560D0047E177 /* TransactionViewBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FF59F2D7F560D0047E177 /* TransactionViewBuilder.swift */; };
+		523FF5A32D7F5F0C0047E177 /* BankCardViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 523FF5A22D7F5F0C0047E177 /* BankCardViewModelTests.swift */; };
 		52688BD32D7E5AEF007ADDD0 /* MVVMCleanCodeSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52688BD22D7E5AEF007ADDD0 /* MVVMCleanCodeSwiftUIApp.swift */; };
 		52688BD72D7E5AF1007ADDD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52688BD62D7E5AF1007ADDD0 /* Assets.xcassets */; };
 		52688BDB2D7E5AF1007ADDD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52688BDA2D7E5AF1007ADDD0 /* Preview Assets.xcassets */; };
-		52688BE52D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52688BE42D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.swift */; };
 		52688BEF2D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52688BEE2D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITests.swift */; };
 		52688BF12D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52688BF02D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
@@ -70,13 +70,13 @@
 		523FF5942D7F51D20047E177 /* BankCardViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCardViewModel.swift; sourceTree = "<group>"; };
 		523FF5992D7F55790047E177 /* CardsCarouselViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsCarouselViewBuilder.swift; sourceTree = "<group>"; };
 		523FF59F2D7F560D0047E177 /* TransactionViewBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionViewBuilder.swift; sourceTree = "<group>"; };
+		523FF5A22D7F5F0C0047E177 /* BankCardViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankCardViewModelTests.swift; sourceTree = "<group>"; };
 		52688BCF2D7E5AEF007ADDD0 /* MVVMCleanCodeSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMCleanCodeSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		52688BD22D7E5AEF007ADDD0 /* MVVMCleanCodeSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMCleanCodeSwiftUIApp.swift; sourceTree = "<group>"; };
 		52688BD62D7E5AF1007ADDD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52688BD82D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MVVMCleanCodeSwiftUI.entitlements; sourceTree = "<group>"; };
 		52688BDA2D7E5AF1007ADDD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52688BE02D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MVVMCleanCodeSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		52688BE42D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMCleanCodeSwiftUITests.swift; sourceTree = "<group>"; };
 		52688BEA2D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MVVMCleanCodeSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52688BEE2D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMCleanCodeSwiftUIUITests.swift; sourceTree = "<group>"; };
 		52688BF02D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMCleanCodeSwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
@@ -283,6 +283,14 @@
 			path = Transactions;
 			sourceTree = "<group>";
 		};
+		523FF5A12D7F5F030047E177 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				523FF5A22D7F5F0C0047E177 /* BankCardViewModelTests.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
 		52688BC62D7E5AEF007ADDD0 = {
 			isa = PBXGroup;
 			children = (
@@ -328,7 +336,7 @@
 		52688BE32D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests */ = {
 			isa = PBXGroup;
 			children = (
-				52688BE42D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.swift */,
+				523FF5A12D7F5F030047E177 /* Home */,
 			);
 			path = MVVMCleanCodeSwiftUITests;
 			sourceTree = "<group>";
@@ -504,7 +512,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52688BE52D7E5AF1007ADDD0 /* MVVMCleanCodeSwiftUITests.swift in Sources */,
+				523FF5A32D7F5F0C0047E177 /* BankCardViewModelTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

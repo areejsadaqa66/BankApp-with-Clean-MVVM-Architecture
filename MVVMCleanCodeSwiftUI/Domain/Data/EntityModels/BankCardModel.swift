@@ -20,4 +20,11 @@ struct BankCard: Identifiable, Decodable, Hashable {
          case cardHolder
          case expiryDate
      }
+    
+    init(cardNumber: String, cardHolder: String, expiryDate: String, gradientColors: [Color]) {
+        self.cardNumber = cardNumber
+        self.cardHolder = cardHolder
+        self.expiryDate = expiryDate
+        self.gradientColors = gradientColors
+    }
 }
