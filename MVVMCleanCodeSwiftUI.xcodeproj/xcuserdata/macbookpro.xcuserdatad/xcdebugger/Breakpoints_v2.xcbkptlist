@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E0409B6-4316-44D8-B666-A3C139B2EF26"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8F8DE04-B257-48CF-92F2-19953CF72B60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/View/TransactionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "init(viewModel:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35AF18DC-F508-4BB6-A432-6F3777587960"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35AF18DC-F508-4BB6-A432-6F3777587960 - 9d83c9c1a3625e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMCleanCodeSwiftUI.Transaction) -&gt; MVVMCleanCodeSwiftUI.Transaction in MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "35AF18DC-F508-4BB6-A432-6F3777587960 - cd3f50b888e8e35d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "160">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1075FE6-8F81-49BC-B6C4-E69C95D83443"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0026BAD-C751-43BB-AB00-79BBD3F97DFF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E0026BAD-C751-43BB-AB00-79BBD3F97DFF - cd3f50b888e8e330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "E0026BAD-C751-43BB-AB00-79BBD3F97DFF - 9d83c9c1a3625e3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVMCleanCodeSwiftUI.Transaction) -&gt; MVVMCleanCodeSwiftUI.Transaction in MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A7C3727-3E48-4421-85E4-0FD2D2AC6199"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A7C3727-3E48-4421-85E4-0FD2D2AC6199 - cd3f50b888ef1cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "888">
+               </Location>
+               <Location
+                  uuid = "4A7C3727-3E48-4421-85E4-0FD2D2AC6199 - cd3f50b888ef1cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "732">
+               </Location>
+               <Location
+                  uuid = "4A7C3727-3E48-4421-85E4-0FD2D2AC6199 - cd3f50b888ef1cd9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1314074C-B14B-4898-BE16-2FD155A2335C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/View/TransactionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "938D85C9-30FB-42AD-8AAA-B459830598E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "938D85C9-30FB-42AD-8AAA-B459830598E6 - cd3f50b888ef1c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "938D85C9-30FB-42AD-8AAA-B459830598E6 - cd3f50b888ef1c38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84D03E1E-0482-46B1-8AA1-1F2F279EDCA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/View/TransactionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "84D03E1E-0482-46B1-8AA1-1F2F279EDCA3 - c6239c11a5ea3ae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMCleanCodeSwiftUI.TransactionCard.body.getter : some"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/View/TransactionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "1596">
+               </Location>
+               <Location
+                  uuid = "84D03E1E-0482-46B1-8AA1-1F2F279EDCA3 - c6239c11a5ea3d0c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMCleanCodeSwiftUI.TransactionCard.body.getter : some"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/View/TransactionView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0602A17-0D20-4136-B193-AA64FF80F244"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A0602A17-0D20-4136-B193-AA64FF80F244 - cd3f50b888e8e35d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "A0602A17-0D20-4136-B193-AA64FF80F244 - efd2266bc5a47305"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor @Sendable () -&gt; () in MVVMCleanCodeSwiftUI.TransactionViewModel.fetchTransactions() async -&gt; ()"
+                  moduleName = "MVVMCleanCodeSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Desktop/MVVMCleanCodeSwiftUI/MVVMCleanCodeSwiftUI/Presentation/HomeTransactions/ViewModel/TransactionViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
